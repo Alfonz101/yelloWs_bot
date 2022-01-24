@@ -5,7 +5,7 @@ from PIL import Image
 # Code stolen from several sources, however it took me a good while to get everything to work properly lmao
 
 client = commands.Bot(command_prefix='.')
-TOKEN = "OTM0NDg2Mzk3Mzk2NjExMTUz.YewyRw.c6azwMiyAyOhtK12iSaJr9lbHps"
+TOKEN = "" # DON'T FORGET TO ENTER 
 
 
 @client.event
